@@ -1,0 +1,6 @@
+torch
+transformers
+wordfreq
+scikit-learn
+numpy
+pandas
